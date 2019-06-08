@@ -1,6 +1,10 @@
 ref:  
 https://www.youtube.com/watch?v=Bfi96LUebXo
 
+
+other ref:  
+https://www.youtube.com/results?search_query=Svelte+3
+
 **Create Project**
 ```
 npx degit sveltejs/template demo-svelte-app
@@ -11,16 +15,4 @@ yarn
 **Run locally**
 ```
 yarn dev
-```
-
-
-Note:
-https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize
-
-in settings.json file 
-colorize
-```
-    "colorize.include": [
-        ".svelte"
-    ],
 ```

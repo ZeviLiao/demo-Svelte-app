@@ -12,3 +12,15 @@ yarn
 ```
 yarn dev
 ```
+
+
+Note:
+https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize
+
+in settings.json file 
+colorize
+```
+    "colorize.include": [
+        ".svelte"
+    ],
+```
